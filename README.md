@@ -30,7 +30,7 @@ Once downloaded, extract the contents to the directory of your choice.
 - Python 3.x
 - TensorFlow
 - Keras
-- NumPy
+- NumPy(optional)
 - Matplotlib (for visualization)
 
 You can install the necessary dependencies using the following command:
